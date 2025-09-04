@@ -54,6 +54,9 @@
 
 ---
 
-Created using GitHub Copilot with gpt 4.1 engine selected.
 ## **まとめ**
 このファイルは、6502用BASICインタープリタの**初期化・メモリ管理・各種処理ルーチン・文字列／数式評価・エラー処理・ディスパッチテーブル等の全体構造**を定義した、主要なアセンブリソースです。**各種マクロと条件分岐による柔軟な移植性・効率的なメモリ利用・高速なコマンド解析**を中心に設計されています。
+
+---
+
+Created using GitHub Copilot with gpt 4.1 engine selected.
